@@ -46,28 +46,29 @@ UIEBD. Here, UWCNN-type-I represents the model trained by synthetic type-I train
 ![Visual_Greenish_comparison](/Fig/bluish1.PNG)
 ![Visual_Greenish_comparison](/Fig/bluish2.PNG)
 
-Visual comparison of greenish images: Comparisons of different methods on the greenish underwater samples from
-UIEBD. Here, UWCNN-type-I represents the model trained by synthetic type-I training data.
+Qualitative comparisons on bluish images: The results of various CNN-based and GAN-based methods on the sample
+underwater images from UIEBD.
+
+
+![Visual_Greenish_comparison](/Fig/HighBackScatter.PNG)
+![Visual_Greenish_comparison](/Fig/LowBackScatter.PNG)
+
+The low and high backscatter images: The challenging images to remove the backscatter. The images are selected
+from UIEBD dataset. The top image shows the low backscatter, while the bottom image illustrates the high backscatter.
 
 
 ![Visual_Greenish_comparison](/Fig/Hazeline1.PNG)
 ![Visual_Greenish_comparison](/Fig/Hazeline2.PNG)
 
-Visual comparison of greenish images: Comparisons of different methods on the greenish underwater samples from
-UIEBD. Here, UWCNN-type-I represents the model trained by synthetic type-I training data.
+Visual comparisons on Haze-line: The Haze-line dataset provides an accurate distance based on the stereo. To be
+fair to the authors of Haze-line, we have also included the results of the best performer (i.e., Haze-line, a conventional
+method) on this dataset.
 
 
 ![Visual_Greenish_comparison](/Fig/ULFID1.PNG)
 ![Visual_Greenish_comparison](/Fig/ULFID2.PNG)
 
-Visual comparison of greenish images: Comparisons of different methods on the greenish underwater samples from
-UIEBD. Here, UWCNN-type-I represents the model trained by synthetic type-I training data.
-
-![Visual_Greenish_comparison](/Fig/HighBackScatter.PNG)
-![Visual_Greenish_comparison](/Fig/LowBackScatter.PNG)
-
-Visual comparison of greenish images: Comparisons of different methods on the greenish underwater samples from
-UIEBD. Here, UWCNN-type-I represents the model trained by synthetic type-I training data.
+Images from ULFID: A challenging dataset where all the methods fail to provide clean results.
 
 ## Ablation
 ![PARAMETERS_TABLE](/Fig/TableParameters.PNG)
