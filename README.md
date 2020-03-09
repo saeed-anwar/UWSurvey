@@ -19,10 +19,10 @@ The powerful representation capacity of deep learning has made it inevitable for
 We first introduce the underwater image formation models, which are the base of training data synthesis and design of deep networks, and also helpful for understanding the process of underwater image degradation. Then, we review deep underwater image enhancement algorithms, and a glimpse of some of the aspects of the current networks is presented, including architecture, parameters, training data, loss function, and training configurations. We also summarize the evaluation metrics and underwater image datasets. Following that, a systematically experimental comparison is carried out to analyze the robustness and effectiveness of deep algorithms. Meanwhile, we point out the shortcomings of current benchmark datasets and evaluation metrics. Finally, we discuss several unsolved open issues and suggest possible research directions. We hope that all efforts done in this paper might serve as a comprehensive reference for future research and call for the development of deep learning-based underwater image enhancement. 
 
 ## Overview
-![Overview](/Figs/classification_nets.png)
+![Overview](/Fig/classification_nets.png)
 An overview of the existing single-image super-resolution techniques.
 
-![Networks](/Figs/UWESurveyFigs.png)
+![Networks](/Fig/UWESurveyFigs.png)
 A glimpse of diverse range of network architectures used for single-image super-resolution using deep networks.
 
 ## Datasets
