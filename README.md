@@ -20,16 +20,15 @@ We first introduce the underwater image formation models, which are the base of 
 
 ## Overview
 ![Overview](/Fig/classification_nets.png)
-An overview of the existing single-image super-resolution techniques.
+An overview of the existing Underwater Image Enhancement and Restoration techniques.
 
 ![Networks](/Fig/UWESurveyFigs.png)
-A glimpse of diverse range of network architectures used for single-image super-resolution using deep networks.
+A glimpse of diverse range of network architectures used for Underwater image enhancement using deep networks.
 
 ## Datasets
-We compare the state-of-the-art algorithms on publicly available benchmark datasets which include Set5, Set14, BSD100, Urban100, DIV2K and
-Manga109.
-![Images](/Figs/RepresentativeImages.PNG)
-Representative test images from six super-resolution datasets used for comparing and evaluating algorithms
+We compare the state-of-the-art algorithms on publicly available benchmark datasets which include Haze-line, ULFID, and UIEBD.
+![Images](/Figs/DatasetSampleImages.PNG)
+Representative test images from three datasets used for comparing and evaluating algorithms
 
 ## Results
 ### Quantitative Results
