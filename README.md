@@ -27,43 +27,28 @@ A glimpse of diverse range of network architectures used for Underwater image en
 
 ## Datasets
 We compare the state-of-the-art algorithms on publicly available benchmark datasets which include Haze-line, ULFID, and UIEBD.
-![Images](/Figs/DatasetSampleImages.PNG)
-Representative test images from three datasets used for comparing and evaluating algorithms
+![Images](/Fig/DatasetSampleImages.PNG)
+Three sample images from Haze-line, ULFID, and UIEBD  datasets to show the diversity of the underwater images.
 
 ## Results
 ### Quantitative Results
-![PSNR_SSIM_2x](/Figs/2xTable.PNG)
-![PSNR_SSIM_3x](/Figs/3xTable.PNG)
-![PSNR_SSIM_4x](/Figs/4xTable.PNG)
-Mean PSNR and SSIM for the SR methods evaluated on the benchmark datasets. The ’-’ indicates that the method is not suitable to handle the images of the corresponding dataset.
-
-![PSNR_SSIM_8x](/Figs/8xTable.PNG)
-The results for 8x Super-resolution.
+![Six_evaluation_factors](/Fig/TableEvaluation.PNG)
+Mean PSNR, MSE, SSIM, PCQI, UCIQE and UIQM evaluation metrics for the  methods evaluated on the benchmark dataset. The best results are highlighted with red color while the blue color represents the second best.
 
 ### Visual Results
 
-![Visual_PSNR_SSIM_BI](/Figs/Urban.PNG)
-Super-resolution qualitative comparison for CNN-SR algorithms for 4x and 8x
-![Visual_PSNR_SSIM_BI](/Figs/SR_GAN.PNG)
-Visual comparison for GAN-SR algorithms for 4x
+![Visual_Greenish_comparison](/Fig/Greenish1.PNG)
+![Visual_Greenish_comparison](/Fig/Greenish2.PNG)
+
+Visual comparison of greenish images: Comparisons of different methods on the greenish underwater samples from
+UIEBD. Here, UWCNN-type-I represents the model trained by synthetic type-I training data.
+
 
 ## Ablation
-![PARAMETERS_TABLE](/Figs/parameters.PNG)
+![PARAMETERS_TABLE](/Fig/TableParameters.PNG)
 
-Parameters comparison of CNN-based SR algorithms. GRL stands for Global residual learning, LRL means Local residual learning, MST is
-abbreviation of Multi-scale training.
+Network Specifics: Essential parameters of underwater image enhancement and restoration networks. The losses i.e., lgan, lc , lW , lnui, lr and lg represents adversarial, consistency, Wasserstein, nuisance, relativistic and gradient losses, respectively. The “-” means information is not available.
 
-
-<p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/SRsurvey/blob/master/Figs/mult_adds_comp.PNG">
-</p>
-Comparison of Multiplication-Addition operations in various SR networks. Note that FLOPs are roughly double the number of mult-adds.
-Algorithmic runtime (during inference) is proportional to the multi-add operations.
-
-<p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/SRsurvey/blob/master/Figs/params_comp.PNG">
-</p>
-Comparison of number of parameters in various SR architectures. The memory footprint and training time of the model is directly related to the number of tunable parameters.
 
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
