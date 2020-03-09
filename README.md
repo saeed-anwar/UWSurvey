@@ -43,6 +43,31 @@ Mean PSNR, MSE, SSIM, PCQI, UCIQE and UIQM evaluation metrics for the  methods e
 Visual comparison of greenish images: Comparisons of different methods on the greenish underwater samples from
 UIEBD. Here, UWCNN-type-I represents the model trained by synthetic type-I training data.
 
+![Visual_Greenish_comparison](/Fig/bluish1.PNG)
+![Visual_Greenish_comparison](/Fig/bluish2.PNG)
+
+Visual comparison of greenish images: Comparisons of different methods on the greenish underwater samples from
+UIEBD. Here, UWCNN-type-I represents the model trained by synthetic type-I training data.
+
+
+![Visual_Greenish_comparison](/Fig/Hazeline1.PNG)
+![Visual_Greenish_comparison](/Fig/Hazeline2.PNG)
+
+Visual comparison of greenish images: Comparisons of different methods on the greenish underwater samples from
+UIEBD. Here, UWCNN-type-I represents the model trained by synthetic type-I training data.
+
+
+![Visual_Greenish_comparison](/Fig/ULFID1.PNG)
+![Visual_Greenish_comparison](/Fig/ULFID2.PNG)
+
+Visual comparison of greenish images: Comparisons of different methods on the greenish underwater samples from
+UIEBD. Here, UWCNN-type-I represents the model trained by synthetic type-I training data.
+
+![Visual_Greenish_comparison](/Fig/HighBackScatter.PNG)
+![Visual_Greenish_comparison](/Fig/LowBackScatter.PNG)
+
+Visual comparison of greenish images: Comparisons of different methods on the greenish underwater samples from
+UIEBD. Here, UWCNN-type-I represents the model trained by synthetic type-I training data.
 
 ## Ablation
 ![PARAMETERS_TABLE](/Fig/TableParameters.PNG)
