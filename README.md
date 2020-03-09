@@ -22,7 +22,7 @@ We first introduce the underwater image formation models, which are the base of 
 ![Overview](/Figs/classification_nets.png)
 An overview of the existing single-image super-resolution techniques.
 
-![Networks](/Figs/UWESurveyFigs.PNG)
+![Networks](/Figs/UWESurveyFigs.png)
 A glimpse of diverse range of network architectures used for single-image super-resolution using deep networks.
 
 ## Datasets
