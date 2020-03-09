@@ -78,18 +78,23 @@ Network Specifics: Essential parameters of underwater image enhancement and rest
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
 ```
-@article{anwar2019deep,
-  title={A Deep Journey into Super-resolution: A survey},
-  author={Anwar, Saeed and Khan, Salman and Barnes, Nick},
-  journal={arXiv preprint arXiv:1904.07523},
-  year={2019}
+@article{Anwar2019UWESurvey,
+  author = {Anwar, Saeed and Li, Chongyi},
+    title = {Diving Deeper into Underwater image enhancement: A survey},
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1907.07863},
+ primaryClass = "cs.CV",
+     year = 2019,
 }
 
-@article{anwar2019drln,
-  title={Densely Residual Laplacian Super-Resolution},
-  author={Anwar, Saeed and Barnes, Nick},
-  journal={arXiv preprint arXiv:1906.12021},
-  year={2019}
+@article{Anwar2019UWE,
+  title={Underwater Scene Prior Inspired Deep Underwater Image and Video Enhancement},
+  author={Li, Chongyi and Anwar, Saeed},
+  journal={Pattern Recognition},
+  pages={107038},
+  year={2019},
+  publisher={Elsevier}
 }
 
 ```
