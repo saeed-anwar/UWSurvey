@@ -27,6 +27,7 @@ A glimpse of diverse range of network architectures used for Underwater image en
 
 ## Datasets
 We compare the state-of-the-art algorithms on publicly available benchmark datasets which include Haze-line, ULFID, and UIEBD.
+
 ![Images](/Fig/DatasetSampleImages.PNG)
 Three sample images from Haze-line, ULFID, and UIEBD  datasets to show the diversity of the underwater images.
 
