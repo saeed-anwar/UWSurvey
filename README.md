@@ -1,7 +1,7 @@
 # Diving Deeper into Underwater Image Enhancement: A Survey
 This repository is about the review of underwater image enhancement introduced in the following paper
 
-[Saeed Anwar](https://saeed-anwar.github.io/), [Chongyi Li](https://li-chongyi.github.io/), "Diving Deeper into Underwater Image Enhancement: A Survey", [[arXiv]](https://arxiv.org/pdf/1907.07863.pdf) 
+[Saeed Anwar](https://saeed-anwar.github.io/), [Chongyi Li](https://li-chongyi.github.io/), "Diving Deeper into Underwater Image Enhancement: A Survey", accepted in Signal Processing: Image Communication, 2020, [[PDF]](https://arxiv.org/pdf/1907.07863.pdf) 
 
 
 ## Contents
